@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/alam"
+        android:title="Set Alarm"
+        android:icon="@drawable/ic_save2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/sleep"
+        android:title="Set Sleep Timer"
+        android:icon="@drawable/ic_delete_forever_white_24dp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/nextplay"
+        android:title="Play Next"
+        android:icon="@drawable/ic_delete_forever_white_24dp"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/prevplay"
+        android:title="Play Previous"
+        android:icon="@drawable/ic_delete_forever_white_24dp"
+        app:showAsAction="never"/>
+
+</menu>

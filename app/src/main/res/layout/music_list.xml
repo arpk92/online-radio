@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="2sp"
+    android:layout_height="60sp"
+    android:background="#fff"
+    android:layout_marginBottom="5sp">
+
+    <ImageView
+        android:layout_width="50sp"
+        android:padding="5sp"
+        android:id="@+id/image"
+        android:layout_centerVertical="true"
+        android:src="@drawable/appicon"
+        android:layout_height="50sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:layout_toRightOf="@+id/image"
+        android:layout_toLeftOf="@+id/menu"
+        android:layout_marginLeft="20sp"
+        android:textAlignment="viewStart"
+        android:text="hello"
+        android:id="@+id/tital"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="match_parent"
+        tools:ignore="RtlCompat" />
+
+    <ImageView
+        android:layout_width="50sp"
+        android:layout_centerVertical="true"
+        android:padding="8sp"
+        android:tint="@color/black"
+        android:id="@+id/menu"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_more"
+        android:layout_height="50sp" />
+</RelativeLayout>

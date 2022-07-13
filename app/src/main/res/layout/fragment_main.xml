@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/black"
+        android:layout_height="60sp">
+
+        <ImageView
+            android:layout_width="50sp"
+            android:padding="12sp"
+            android:id="@+id/image"
+            android:tint="@color/white"
+            android:src="@drawable/ic_arrow_back"
+            android:layout_centerVertical="true"
+            android:layout_height="50sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Wake Up Alarm"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_marginLeft="70sp"
+            android:textSize="20sp"
+           android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <audio.radiostation.usaradiostations.wakeup.EmptyRecyclerView
+        android:id="@+id/recycler"
+        android:layout_marginTop="60sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/empty_view_text"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:backgroundTint="@color/black"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="@dimen/fab_margin_default"
+        android:layout_marginRight="@dimen/fab_margin_default"
+        android:layout_marginBottom="@dimen/fab_margin_default"
+        app:srcCompat="@drawable/ic_alarm_white_24dp"
+        app:fabSize="auto"/>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,91 @@
+<!--
+Copyright (c) 2013 Joel Andrews
+Distributed under the MIT License: http://opensource.org/licenses/MIT
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+    xmlns:hwads="http://schemas.android.com/apk/res-auto"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".sleeptimer.SetTimerActivity">
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:background="@color/black"
+            app:titleTextColor="@color/white"
+            android:minHeight="?attr/actionBarSize"
+            app:theme="@style/ToolbarColoredBackArrow"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:layout_height="50dp">
+
+
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:layout_above="@+id/linear"
+                android:weightSum="3"
+                android:layout_marginTop="50sp"
+                android:orientation="vertical"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:ignore="UnknownId">
+
+            <TimePicker
+                    android:id="@+id/timepicker"
+                    android:theme="@style/AppTheme2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+            </TimePicker>
+
+            <Button
+                    android:id="@+id/start_timer_button"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="wrap_content"
+                    android:background="@color/black"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginStart="30dp"
+                    android:textColor="#ffffff"
+                    android:onClick="startTimer"
+                    android:text="Start">
+
+                <requestFocus/>
+            </Button>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+
+        <com.huawei.hms.ads.banner.BannerView
+            android:id="@+id/hw_banner_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            hwads:adId="@string/banner_ad_id"
+            hwads:bannerSize="BANNER_SIZE_320_50" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

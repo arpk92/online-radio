@@ -1,0 +1,55 @@
+<!-- @formatter:off -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Spacing -->
+    <dimen name="screen_spacing_horizontal">16dp</dimen>
+    <dimen name="screen_spacing_vertical">16dp</dimen>
+    <dimen name="content_spacing_horizontal">12dp</dimen>
+    <dimen name="content_spacing_vertical">12dp</dimen>
+    <dimen name="view_spacing_extra_small">4dp</dimen>
+    <dimen name="view_spacing_small">8dp</dimen>
+    <dimen name="view_spacing_medium">16dp</dimen>
+    <dimen name="view_spacing_large">24dp</dimen>
+
+    <!-- Floating Action Button -->
+    <dimen name="floating_action_button_spacing">16dp</dimen>
+
+    <!-- Cards -->
+    <dimen name="card_corner_radius">3dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <!-- Selectable Items -->
+    <dimen name="selectable_rounded_rect_corner_radius">3dp</dimen>
+
+
+
+    <dimen name="activity_horizontal_margin" tools:ignore="MissingDefaultResource">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">2dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">12dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+
+
+
+    <dimen name="list_padding_vertical_small">8dp</dimen>
+
+    <dimen name="fab_margin_default">16dp</dimen>
+
+
+    <dimen name="set_timer_hour_minute_unit_text_size">12pt</dimen>
+    <dimen name="set_timer_spacer_size">40dp</dimen>
+    <dimen name="countdown_timer_text_size">36pt</dimen>
+
+</resources>

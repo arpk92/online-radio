@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- Cambiar de Nombre segun su App -->
+    <string name="app_name">Radio Deutschland</string>
+    <string name="menu_name">Radio App Free Online</string>
+
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">
+        android.support.design.widget.AppBarLayout$ScrollingViewBehavior
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_view_text">Press the Button to add an alarm!</string>
+    <!-- ADS-->
+    <string name="banner_ad_id">testw6vs28auh3</string>
+    <string name="ad_id_splash_landscape">testq6zq98hecj</string>
+    <string name="ad_id_splash">testd7c5cewoj6</string>
+    <string name="video_ad_id">testb4znbuh3n2</string>
+    <!-- Edit Alarm Activity/Fragment -->
+    <string name="time">Time</string>
+    <string name="label">Label</string>
+    <string name="days">Days</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="add_label_hint">Add a label!</string>
+    <string name="update_complete">Changes Saved</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="delete_complete">Alarm Deleted</string>
+    <string name="delete_failed">Delete Failed</string>
+    <string name="delete_dialog_title">Confirm Delete Alarm</string>
+    <string name="delete_dialog_content">Are you sure you would like to delete this alarm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Edit Alarm Menu -->
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Alarm Landing Page Activity/Fragment -->
+    <string name="launch_main_activity">Launch Main Activity</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+
+    <!-- Admob -->
+    <string name="admob_app_id"></string>
+    <string name="banner_ad_unit_id">ca-app-pub-2162874650270593/5139092174</string>
+    <string name="interstitial_ad_unit">ca-app-pub-2162874650270593/1199847165</string>
+
+
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="menu_item_new">Create Alarm</string>
+    <string name="no_alarms">No alarms have been set</string>
+    <string name="start_timer_button_label">Start</string>
+    <string name="cancel_timer_button_label">Cancel</string>
+    <string name="timer_started">Sleep timer started</string>
+    <string name="timer_cancelled">Sleep timer cancelled</string>
+    <string name="default_notification_channel_id" translatable="false">channel</string>
+    <string name="hours_label">    Hours</string>
+    <string name="minutes_label">Minutes</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="countdown_notification_title">Sleep Timer - Countdown Active</string>
+    <string name="countdown_notification_text">Music will be paused at %s</string>
+    <string name="paused_music_notification_title">Sleep Timer - Music Paused</string>
+    <string name="paused_music_notification_text">Good night!</string>
+</resources>

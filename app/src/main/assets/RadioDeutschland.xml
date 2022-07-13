@@ -1,0 +1,290 @@
+<channel>
+<station name="ANTENNE BAYERN Top 40 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C438"
+link="https://s6-webradio.antenne.de/top-40?"/>
+<station name="Ballermann Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C439"
+link="http://livestream.ballermann-radio.de/ballermann-radio.mp3"/>
+<station name="hr1 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C440"
+link="http://hr-edge-204c.fra-lg.cdn.addradio.net/hr/hr1/live/mp3/128/stream.mp3"/>
+<station name="bigFM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C441"
+link="https://streams.bigfm.de/bigfm-deutschland-128-mp3"/>
+<station name="Radio Paloma live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C442"
+link="http://pool.radiopaloma.de/RADIOPALOMA.mp3"/>
+<station name="Deutschlandfunk live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C443"
+link="http://dradio-edge-2096.fra-lg.cdn.addradio.net/dradio/dlf/live/mp3/64/stream.mp3"/>
+<station name="Radio Regenbogen live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C444"
+link="http://scast.regenbogen.de/live"/>
+<station name="SWR4 Baden-Württemberg live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C445"
+link="http://swr-edge-2027.dus-lg.cdn.addradio.net/swr/swr4/bw/mp3/128/stream.mp3"/>
+<station name="Absolut Relax live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C446"
+link="http://stream.absolutradio.de/relax/mp3-160/radioplayer/"/>
+<station name="1Live live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C447"
+link="http://wdr-edge-2010.dus-lg.cdn.addradio.net/wdr/1live/live/mp3/128/stream.mp3"/>
+<station name="96.3 Jam FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C448"
+link="http://stream.jam.fm/jamfm-live/aac-64/"/>
+<station name="ANTENNE BAYERN Oldies but Goldies live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C449"
+link="https://s6-webradio.antenne.de/oldies-but-goldies?"/>
+<station name="N-JOY Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C450"
+link="http://ndr-edge-2062.dus-lg.cdn.addradio.net/ndr/njoy/live/aac/48/stream.aac"/>
+<station name="MDR Aktuell live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C451"
+link="http://mdr-edge-2057.fra-lg.cdn.addradio.net/mdr/aktuell/live/aac/128/stream.aac"/>
+<station name="SWR Aktuell live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C452"
+link="http://swr-edge-2023.dus-lg.cdn.addradio.net/swr/swraktuell/live/mp3/128/stream.mp3"/>
+<station name="B5 aktuell live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C453"
+link="http://br-edge-2005.fra-lg.cdn.addradio.net/br/b5aktuell/live/mp3/128/stream.mp3"/>
+<station name="Rockland Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C454"
+link="http://188.94.97.90/rockland.mp3"/>
+<station name="Bayern 1 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C455"
+link="http://br-edge-2063.dus-lg.cdn.addradio.net/br/br1/nbopf/mp3/128/stream.mp3"/>
+<station name="Hit Radio FFH live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C456"
+link="http://mp3.ffh.de/radioffh/hqlivestream.aac"/>
+<station name="hr3 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C457"
+link="http://hr-edge-204b.fra-lg.cdn.addradio.net/hr/hr3/live/mp3/48/stream.mp3"/>
+<station name="Antenne Bayern live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C458"
+link="https://s6-webradio.antenne.de/antenne?"/>
+<station name="Klassik Radio - Pure Bach live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C459"
+link="http://stream.klassikradio.de/purebach/mp3-128/stream.klassikradio.de/"/>
+<station name="104.6 RTL Berlins Hitradio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C460"
+link="http://rtlberlin.hoerradar.de/rtlberlin-live-mp3-128"/>
+<station name="SWR1 Baden-Württemberg live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C461"
+link="http://swr-edge-2025.dus-lg.cdn.addradio.net/swr/swr1/bw/mp3/128/stream.mp3"/>
+<station name="Bayern 3 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C462"
+link="http://br-edge-20a2.fra-lg.cdn.addradio.net/br/br3/live/mp3/128/stream.mp3"/>
+<station name="SWR3 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C463"
+link="http://swr-edge-202a.fra-lg.cdn.addradio.net/swr/swr3/live/mp3/128/stream.mp3"/>
+<station name="hr-iNFO live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C464"
+link="http://hr-edge-204a.fra-lg.cdn.addradio.net/hr/hrinfo/live/mp3/128/stream.mp3"/>
+<station name="Bayern 2 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C465"
+link="http://br-edge-2066.fra-lg.cdn.addradio.net/br/br2/nord/mp3/56/stream.mp3"/>
+<station name="Klassik Radio - Pure Beethoven live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C466"
+link="http://stream.klassikradio.de/beethoven/mp3-128/stream.klassikradio.de"/>
+<station name="Sunshine live live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C467"
+link="http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq"/>
+<station name="radioeins vom rbb live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C468"
+link="http://rbb-edge-2070.fra-lg.cdn.addradio.net/rbb/radioeins/live/mp3/128/stream.mp3"/>
+<station name="Klassik Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C469"
+link="http://stream.klassikradio.de/live/mp3-128/stream.klassikradio.de/"/>
+<station name="ROCK ANTENNE Heavy Metal live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C470"
+link="https://s7-webradio.rockantenne.de/heavy-metal?"/>
+<station name="WDR 2 Rhein und Ruhr live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C471"
+link="http://wdr-edge-201a.fra-lg.cdn.addradio.net/wdr/wdr2/rheinruhr/mp3/56/stream.mp3?"/>
+<station name="ENERGY Berlin live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C472"
+link="https://scdn.nrjaudio.fm/adwz1/de/33001/mp3_128.mp3"/>
+<station name="1LIVE DIGGI live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C473"
+link="http://wdr-edge-2017.fra-lg.cdn.addradio.net/wdr/1live/diggi/mp3/128/stream.mp3"/>
+<station name="NDR 2 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C474"
+link="http://ndr-edge-206b.fra-lg.cdn.addradio.net/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"/>
+<station name="90s90s Dance live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C475"
+link="http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq"/>
+<station name="ANTENNE BAYERN Chillout live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C476"
+link="https://s5-webradio.antenne.de/chillout?"/>
+<station name="WDR 5 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C477"
+link="http://wdr-edge-20be.fra-lg.cdn.addradio.net/wdr/wdr5/live/mp3/128/stream.mp3"/>
+<station name="RADIO BOB live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C478"
+link="http://streams.radiobob.de/bob-live/aac-64/mediaplayer"/>
+<station name="Radio ffn live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C479"
+link="http://ffn-de-hz-fal-stream08-cluster01.radiohost.de/ffn_mp3-192"/>
+<station name="ANTENNE BAYERN Schlagersahne live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C480"
+link="https://s4-webradio.antenne.de/das-schlager-karussell?"/>
+<station name="NDR 1 Niedersachsen live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C481"
+link="https://ndr-ndr1niedersachsen-hannover.sslcast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"/>
+<station name="WDR 2 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C482"
+link="http://wdr-edge-200e.dus-lg.cdn.addradio.net/wdr/wdr2/rheinland/mp3/56/stream.mp3"/>
+<station name="BR-Klassik live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C483"
+link="http://br-edge-20a2.fra-lg.cdn.addradio.net/br/brklassik/live/mp3/56/stream.mp3"/>
+<station name="WDR 4 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C484"
+link="http://wdr-edge-2012.dus-lg.cdn.addradio.net/wdr/wdr4/live/mp3/56/stream.mp3"/>
+<station name="MDR JUMP live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C485"
+link="http://mdr-edge-2055.dus-lg.cdn.addradio.net/mdr/jump/live/aac/128/stream.aac?"/>
+<station name="FFH Die 80er live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C486"
+link="http://mp3.ffh.de/ffhchannels/hq80er.mp3"/>
+<station name="Klassik Radio - Pure Mozart live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C487"
+link="http://mp3.ffh.de/ffhchannels/hq80er.mp3"/>
+<station name="bigFM US Rap  Hip-Hop live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C488"
+link="http://streams.bigfm.de/bigfm-usrap-64-aac?"/>
+<station name="ANTENNE BAYERN 90er Hits live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C489"
+link="https://s4-webradio.antenne.de/90er-hits?"/>
+<station name="ANTENNE BAYERN 80er Kulthits live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C490"
+link="https://s4-webradio.antenne.de/80er-kulthits?"/>
+<station name="Kiss 98.8 FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C491"
+link="http://138.201.251.233/kissfm_128"/>
+<station name="Sunshine live - Techno live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C492"
+link="http://regiocast.hoerradar.de/sunshinelive-techno-mp3-hq"/>
+<station name="Deutschlandfunk Kultur live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C493"
+link="http://dradio-edge-2095.fra-lg.cdn.addradio.net/dradio/kultur/live/mp3/128/stream.mp3"/>
+<station name="inforadio vom rbb live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C494"
+link="http://rbb-edge-2071.fra-lg.cdn.addradio.net/rbb/inforadio/live/mp3/48/stream.mp3"/>
+<station name="ROCK ANTENNE live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C495"
+link="https://s8-webradio.rockantenne.de/rockantenne?"/>
+<station name="Bremen Eins live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C496"
+link="http://rb-edge-207b.dus-lg.cdn.addradio.net/rb/bremeneins/live/mp3/64/stream.mp3"/>
+<station name="Metropol FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C497"
+link="http://mfm1.webradiostreaming.de:8200/;"/>
+<station name="Deutschlandfunk Nova live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C498"
+link="http://dradio-edge-2093.dus-lg.cdn.addradio.net/dradio/nova/live/mp3/64/stream.mp3"/>
+<station name="Antenne Niedersachsen live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C499"
+link="http://antennends-ais-edge-3008.fra-eco.cdn.addradio.net/antennends/live/mp3/mid?"/>
+<station name="Klassik Radio - Barock live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C500"
+link="http://stream.klassikradio.de/barock/mp3-192/"/>
+<station name="ffn Bollerwagen live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C501"
+link="https://ffn-de-hz-fal-stream10-cluster01.radiohost.de/radiobollerwagen_mp3-192"/>
+<station name="Schlager Radio FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C502"
+link="http://rautemusik-de-hz-fal-stream11.radiohost.de/schlager"/>
+<station name="NORA Oldies live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C503"
+link="http://regiocast.hoerradar.de/nora-103-aac-mq"/>
+<station name="Klassik 1 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C504"
+link="http://icepool.silvacast.com/KLASSIK1.mp3"/>
+<station name="NDR Kultur 98.8 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C505"
+link="http://ndr-edge-2062.dus-lg.cdn.addradio.net/ndr/ndrkultur/live/mp3/128/stream.mp3"/>
+<station name="89.0 RTL live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C506"
+link="http://890rtl-ais-edge-3006.fra-eco.cdn.addradio.net/890rtl/live/aac/low?"/>
+<station name="Planet Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C507"
+link="https://mp3.planetradio.de/planetradio/hqlivestream.aac"/>
+<station name="Sunshine - Tech House live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C508"
+link="http://sunsl.streamabc.net/sunsl-techhouse-mp3-192-9113798"/>
+<station name="RADIO BOB 90er Rock live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C509"
+link="http://streams.radiobob.de/bob-90srock/aac-64/mediaplayer"/>
+<station name="RPR1. live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C510"
+link="https://streams.rpr1.de/rpr-simulcast-128-mp3"/>
+<station name="Radio Arabella live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C511"
+link="http://rs26.stream24.net/stream"/>
+<station name="Klassik Radio - Piano live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C512"
+link="http://klassikr.streamabc.net/klr-piano-mp3-128-7465124"/>
+<station name="radio SAW live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C513"
+link="https://saw-de-hz-fal-stream03-cluster01.radiohost.de/saw_128"/>
+<station name="MDR THÜRINGEN Erfurt live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C514"
+link="http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3"/>
+<station name="FFH Lounge live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C515"
+link="http://mp3.ffh.de/ffhchannels/hqlounge.mp3"/>
+<station name="ANTENNE BAYERN Lovesongs live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C516"
+link="https://s4-webradio.antenne.de/lovesongs?"/>
+<station name="FFH Eurodance live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C517"
+link="http://mp3.ffh.de/ffhchannels/hqeurodance.mp3"/>
+<station name="Radio Paloma Partyschlager live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C518"
+link="http://pool.radiopaloma.de/RP-Partyschlager.mp3"/>
+<station name="Sunshine live - House live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C519"
+link="http://regiocast.hoerradar.de/sunshinelive-house-mp3-hq"/>
+<station name="Fritz vom rbb live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C520"
+link="http://rbb-edge-206f.dus-lg.cdn.addradio.net/rbb/fritz/live/mp3/128/stream.mp3"/>
+<station name="rbb 88.8 FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C521"
+link="http://rbb-edge-206f.dus-lg.cdn.addradio.net/rbb/radioberlin/live/mp3/48/stream.mp3"/>
+<station name="bigFM HipHop live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C522"
+link="http://streams.bigfm.de/bigfm-hiphop-64-aac"/>
+<station name="DASDING live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C523"
+link="http://swr-edge-2026.dus-lg.cdn.addradio.net/swr/dasding/live/mp3/128/stream.mp3"/>
+<station name="YOU FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C524"
+link="http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3"/>
+<station name="94.3 rs2 live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C525"
+link="http://138.201.251.239/rs2_128"/>
+<station name="Radio Gong 96.3 FM live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C526"
+link="http://radiogong-ais-edge-4006-212-122-133-231.cast.addradio.de/radiogong/live/mp3/high?"/>
+<station name="FluxFM Techno Underground live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C527"
+link="http://fluxfm.hoerradar.de/flux-technoug-aac-mq"/>
+<station name="ANTENNE BAYERN Classic Rock live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C528"
+link="https://s2-webradio.antenne.de/classic-rock-live?"/>
+<station name="Electro Swing Radio live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C529"
+link="https://streamer.radio.co/s2c3cc784b/listen"/>
+<station name="ENERGY München live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C530"
+link="https://scdn.nrjaudio.fm/adwz1/de/33003/aac_64.mp3"/>
+<station name="NDR 1 Welle Nord live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C531"
+link="http://ndr-edge-203a.dus-lg.cdn.addradio.net/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"/>
+<station name="Radio PSR live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C532"
+link="https://psr.hoerradar.de/psr-live-mp3-hq"/>
+<station name="WDR 2 Ruhrgebiet live"
+image="https://radiobestapps.files.wordpress.com/2019/09/germany-radio-logo.png?resize=438%2C533"
+link="http://wdr-edge-2015.fra-lg.cdn.addradio.net/wdr/wdr2/ruhrgebiet/mp3/56/stream.mp3"/>
+</channel>
